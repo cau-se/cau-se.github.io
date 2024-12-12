@@ -4,10 +4,10 @@
 <svg
    version="1.1"
    id="svg1"
-   width="100.56756"
-   height="19.937201"
-   viewBox="0 0 100.56756 19.937201"
-   sodipodi:docname="thesis-waller-print.pdf"
+   width="100.568"
+   height="29.906"
+   viewBox="0 0 100.568 29.906001"
+   sodipodi:docname="MooBench-logo.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -392,11 +392,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="21.765631"
-     inkscape:cy="9.8111066"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="40.216698"
+     inkscape:cy="50.204581"
+     inkscape:window-width="1920"
+     inkscape:window-height="1163"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -406,8 +406,8 @@
        y="0"
        inkscape:label="131"
        id="page1"
-       width="100.56756"
-       height="19.937201"
+       width="100.568"
+       height="29.906"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
@@ -416,8 +416,16 @@
      inkscape:groupmode="layer"
      inkscape:label="131"
      transform="translate(-132.22502,-109.86279)">
+    <rect
+       style="fill:#ffffff;stroke-width:1.00157"
+       id="rect2"
+       width="100.568"
+       height="29.906"
+       x="132.22502"
+       y="109.86279" />
     <g
-       id="g93">
+       id="g93"
+       transform="translate(0,4.9843444)">
       <path
          d="m 0,0 c -0.832,-8.742 -9.574,-11.234 -2.847,-11.082 85.773,1.965 241.062,12.125 242.894,-7.746 13.027,10.297 24.078,9.867 60.914,9.68 -29.344,10.488 -184.125,5.793 -194.012,5.23 0,0 -86.824,-7.984 -106.949,3.918"
          style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
