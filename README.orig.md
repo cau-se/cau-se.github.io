@@ -124,7 +124,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://www.zhivotenko.com/" target="_blank">★</a>
 <a href="https://giordanodaloisio.github.io/" target="_blank">★</a>
 <a href="https://aadityaura.github.io/" target="_blank">★</a>
-<a href="https://abhinav-mehta.github.io/" target="_blank">★</a>
+<!--a href="https://abhinav-mehta.github.io/" target="_blank">★</a-->
 <a href="https://shubhashisroydipta.com/" target="_blank">★</a>
 <a href="https://astanziola.github.io" target="_blank">★</a>
 <a href="https://tinkerer.in" target="_blank">★</a>
@@ -146,11 +146,11 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://tonideleo.github.io/" target="_blank">★</a>
 <a href="https://alonkellner.com/" target="_blank">★</a>
 <a href="https://berylbir.github.io/" target="_blank">★</a>
-<a href="https://thefermi0n.github.io/" target="_blank">★</a>
+<!--a href="https://thefermi0n.github.io/" target="_blank">★</a-->
 <a href="https://mingsun-kaust.github.io/" target="_blank">★</a>
 <a href="https://hdocmsu.github.io/" target="_blank">★</a>
 <a href="https://trandangtrungduc.github.io/" target="_blank">★</a>
-<a href="https://kinghowler.github.io/" target="_blank">★</a>
+<!--a href="https://kinghowler.github.io/" target="_blank">★</a-->
 <a href="https://anurye.github.io/" target="_blank">★</a>
 <a href="https://charlie-xiao.github.io/" target="_blank">★</a>
 <a href="https://giuseppeperelli.github.io/" target="_blank">★</a>
