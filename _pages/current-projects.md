@@ -11,7 +11,7 @@ projects:
     url: https://www.sourced.uni-bayreuth.de/de/projects/ScalableMine/index.html
     desc: "Scalable Hierarchical Process Mining in Event-Stream Systems"
     logo: SOURCED.png
-    logo2: dfg_logo_schriftzug_blau_foerderung_en.jpg
+    logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: SilageControl
     url: https://projekt.silagecontrol.de/
     desc: "Entwicklung einer intelligenten Sensorplattform zur Erntemengenerfassung- und Management von Silagen"
@@ -22,5 +22,5 @@ projects:
     desc: "Kieker monitoring framework as a sustainable and reusable research
     software"
     logo: SustainKieker-logo.svg
-    logo2: dfg_logo_schriftzug_blau_foerderung_en.jpg
+    logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
 ---
