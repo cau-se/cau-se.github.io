@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: research-software
 permalink: /research/research-software/
 title: Research Software
 description: 

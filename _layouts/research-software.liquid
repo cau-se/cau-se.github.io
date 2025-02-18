@@ -1,0 +1,35 @@
+---
+layout: page
+---
+<div class="post">
+  <article>
+    <table class="table-borderless">
+      <thead>
+        <tr>
+          <th style="width: 25%;"></th>
+          <th></th>
+        </tr>
+      </thead>
+      {% for project in page.projects %}
+        <tr>
+          <td>
+            <div style="vertical-align: middle;">
+              {% if project.logo %}
+                {% assign project_image_path = project.logo | prepend: 'assets/img/' %}
+                {% assign project_image_class = 'img-fluid' %}
+                {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
+                {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=project.logo %}
+              {% endif %}
+            </div>
+          </td>
+          <td>
+            <div style="text-align: left;">
+              <a href="{{ project.url }}">{{ project.name }}</a><br>
+              {{ project.desc }}
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </article>
+</div>
