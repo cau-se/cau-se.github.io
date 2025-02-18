@@ -53,10 +53,10 @@ layout: page
   {% assign url = item[1] %}
   {% assign projects = item[2] %}
 
+  {{ '---' | markdownify }}
   <strong>
     <a href="{{ url }}">{{ urlTitle }}</a>
   </strong>
-  {{ '---' | markdownify }}
   <div class="post">
     <article>
       <table class="table-borderless">
