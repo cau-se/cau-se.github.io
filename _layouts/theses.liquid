@@ -7,44 +7,32 @@ layout: page
   {% endif %}
 {% endfor %}
 
-<div class="post">
   <article>
-    <table class="table-borderless">
-      <thead>
-        <tr style="border-bottom: thin solid;">
-          <th style="text-align: left; width: 75%; padding-bottom: .25em">Topics</th>
-          <th style="text-align: left; width: 25%; padding-bottom: .25em">Project Context</th>
-        </tr>
-      </thead>
-      {% for topic in page.topics %}
-        <tr>
-          <td style="padding-top: .25em;">
-            <div style="text-align: left;">
-              {{ topic.desc | prepend: '**' | append: '**' | markdownify }}
-            </div>
-            {% if topic.examples %}
-              <div style="text-align: left;">
-                Examples:
-                {{ topic.examples | markdownify }}
-              </div>
-            {% endif %}
-            {% if topic.contact %}
-              <div style="text-align: left;">
-                {{ topic.contact | prepend: 'Contact: ' | markdownify }}
-              </div>
-            {% endif %}
-          </td>
-          <td style="vertical-align: top; padding-top: .5em">
-            {% if topic.logo %}
-              {% assign project_image_path = topic.logo | prepend: 'assets/img/' %}
-              {% assign project_image_class = 'img-fluid' %}
-              {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-    </table>
+  {% for topic in page.topics %}
+    <div class="row">
+      <div class="col-sm-8">
+        <div class="thesis-title">{{topic.title}}</div>
+        {% if topic.desc %}
+          <div class="periodical"> <em>{{topic.desc}}</em></div>
+        {% endif %}
+        <div style="text-align: left;">
+          {{ topic.contact | prepend: 'Contact: ' | markdownify }}
+          </div>
+          </div>
+          <div class="col col-sm-3 abbr">
+           {% if topic.image %} 
+             <figure>
+                <picture>
+                   {% assign project_image_path = topic.image | prepend: 'assets/img/' %}
+                   {% assign project_image_class = 'img' %}
+                   {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
+                   {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
+                </picture>
+             </figure>
+           {% endif %}
+          </div>
+    </div>
+  {% endfor %}
   </article>
 </div>
 
