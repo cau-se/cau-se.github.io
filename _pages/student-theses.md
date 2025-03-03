@@ -19,12 +19,12 @@ topics:
     contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
   - title: Benchmark Energy-Consumption for Stream Processing Engines
     image: SOURCED.png
-    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107n/yang-shinhyung-70105)"
+    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107)"
   - title: Design Kubernetes Operator for Distributed Machine Learning at the edge
-    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107n/yang-shinhyung-70105)"
+    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107)"
     image: SOURCED.png
   - title: Improve Data Mining Algorithms for High-Volume Sensor Data
-    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107n/yang-shinhyung-70105)"
+    contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107)"
     image: SOURCED.png
   - title: Dynamic Software Quality Metrics
     contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
