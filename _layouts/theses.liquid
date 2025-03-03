@@ -1,44 +1,42 @@
 ---
 layout: page
 ---
-
 {% for item in site.pages %}
   {% if item.title == 'Current Projects' %}
     {% assign currentProjects = item.projects %}
   {% endif %}
 {% endfor %}
 
-  <article>
-    <div class="mb-3 font-weight-bold ml-2">Open Topics</div>
+<article>
+  <div class="mb-3 font-weight-bold ml-2">Open Topics</div>
   {% for topic in page.topics %}
     <div class="row mb-3 ml-2">
       <div class="col-sm-9">
-        <div class="thesis-title">{{topic.title}}</div>
+        <div class="thesis-title">{{ topic.title }}</div>
         {% if topic.desc %}
-          <div class="periodical font-italic">{{topic.desc}}</div>
+          <div class="periodical font-italic">{{ topic.desc }}</div>
         {% endif %}
         <div style="text-align: left;">
           {{ topic.contact | prepend: 'Contact: ' | markdownify }}
-          </div>
-          </div>
-          <div class="col col-sm-3 d-none d-sm-flex">
-           {% if topic.image %} 
-                   {% assign project_image_path = topic.image | prepend: 'assets/img/' %}
-                   {% assign project_image_class = 'img' %}
-                   {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
-                   {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
-           {% endif %}
-          </div>
+        </div>
+      </div>
+      <div class="col col-sm-3 d-none d-sm-flex">
+        {% if topic.image %}
+          {% assign project_image_path = topic.image | prepend: 'assets/img/' %}
+          {% assign project_image_class = 'img' %}
+          {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
+          {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
+        {% endif %}
+      </div>
     </div>
   {% endfor %}
-  </article>
+</article>
 
 {% if page.content %}
   <div class="clearfix">
     {{ page.content | markdownify }}
   </div>
 {% endif %}
-
 
 <div class="mb-3 font-weight-bold">Finished Thesis</div>
 <div class="ml-4 d-flex">
