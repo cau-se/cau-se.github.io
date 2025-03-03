@@ -7,49 +7,39 @@ layout: page
   {% endif %}
 {% endfor %}
 
-<div class="post">
-  <article>
-    <table class="table-borderless">
-      <thead>
-        <tr style="border-bottom: thin solid;">
-          <th style="text-align: left; width: 75%; padding-bottom: .25em">Topics</th>
-          <th style="text-align: left; width: 25%; padding-bottom: .25em">Project Context</th>
-        </tr>
-      </thead>
-      {% for topic in page.topics %}
-        <tr>
-          <td style="padding-top: .25em;">
-            <div style="text-align: left;">
-              {{ topic.desc | prepend: '**' | append: '**' | markdownify }}
-            </div>
-            {% if topic.examples %}
-              <div style="text-align: left;">
-                Examples:
-                {{ topic.examples | markdownify }}
-              </div>
-            {% endif %}
-            {% if topic.contact %}
-              <div style="text-align: left;">
-                {{ topic.contact | prepend: 'Contact: ' | markdownify }}
-              </div>
-            {% endif %}
-          </td>
-          <td style="vertical-align: top; padding-top: .5em">
-            {% if topic.logo %}
-              {% assign project_image_path = topic.logo | prepend: 'assets/img/' %}
-              {% assign project_image_class = 'img-fluid' %}
-              {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
-              {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
-    </table>
-  </article>
-</div>
+<article>
+  <div class="mb-3 font-weight-bold ml-2">Open Topics</div>
+  {% for topic in page.topics %}
+    <div class="row mb-3 ml-2">
+      <div class="col-sm-9">
+        <div class="thesis-title">{{ topic.title }}</div>
+        {% if topic.desc %}
+          <div class="periodical font-italic">{{ topic.desc }}</div>
+        {% endif %}
+        <div style="text-align: left;">
+          {{ topic.contact | prepend: 'Contact: ' | markdownify }}
+        </div>
+      </div>
+      <div class="col col-sm-3 d-none d-sm-flex">
+        {% if topic.image %}
+          {% assign project_image_path = topic.image | prepend: 'assets/img/' %}
+          {% assign project_image_class = 'img' %}
+          {% capture sizes %}(min-width: 100px) 30vw"{% endcapture %}
+          {% include figure.liquid loading="eager" path=project_image_path class=project_image_class sizes=sizes alt=topic.logo %}
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</article>
 
 {% if page.content %}
   <div class="clearfix">
     {{ page.content | markdownify }}
   </div>
 {% endif %}
+
+<div class="mb-3 font-weight-bold">Finished Thesis</div>
+<div class="ml-4 d-flex">
+  <a href="https://oceanrep.geomar.de/view/divisions/soft=5Feng.date.html">Publications in OceanRep</a>
+  <span class="ml-2">(may take some time to load)</span>
+</div>
