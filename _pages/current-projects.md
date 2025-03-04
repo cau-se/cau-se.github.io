@@ -7,6 +7,11 @@ nav: false
 nav_order: 99
 
 projects:
+  - name: ARCHES PiCar-X
+    url: https://github.com/cau-se/ARCHES-PiCar-X
+    desc: "Software for Digital Twin Research"
+    logo: ARCHES.svg
+    logo2: helmholtz.svg
   - name: ScalableMine
     url: https://www.sourced.uni-bayreuth.de/de/projects/ScalableMine/index.html
     desc: "Scalable Hierarchical Process Mining in Event-Stream Systems"
