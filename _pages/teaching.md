@@ -7,10 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-##### Current Term
+<img src="/assets/img/univis.giv" width="40"> **[Courses in UnivIS, the cental information system of Kiel University](https://univis.uni-kiel.de/form?dsc=go&to=search/lectures/doz&what=wilhelm%20hasselbring)**
 
-[Courses Winter Semester 2024/2025](https://univis.uni-kiel.de/formbot/dsc_3Danew_2Flecture_26dir_3Dtechn_2Finfor_2Finform_2Fsoftwa_26ref_3Dlecture_26sem_3D2024w)
+<img src="/assets/img/wiki.png" width="40"> **[Our Software Engineering Teaching Wiki](https://cau-git.rz.uni-kiel.de/ifi-ag-se/public/teaching/-/wikis/home)**
 
-##### Next Term
-
-[Courses Summer Semester 2025](https://univis.uni-kiel.de/formbot/dsc_3Danew_2Flecture_26dir_3Dtechn_2Finfor_2Finform_2Fsoftwa_26ref_3Dlecture_26sem_3D2025s)
+<img src="/assets/img/summit.png" width="40"> **[Upskilling: Summit Community „Softwarearchitektur & Softwareentwicklung“ ](https://summit-community.de/veranstaltung/softwarearchitektur-softwareentwicklung/)**
