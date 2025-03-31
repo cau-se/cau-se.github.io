@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Papers at ICSA 2025
+title: SPEC RG accepts the Kieker Observability Framework Version 2
 date: 2025-03-25 15:17:03+0100
 inline: false
 related_posts: false
