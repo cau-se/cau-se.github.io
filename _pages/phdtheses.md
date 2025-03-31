@@ -8,7 +8,6 @@ nav_order: 99
 ---
 
 1. Dr.-Ing. Alexander Barbie: [Agile Continuous Integration Testing of Embedded Software Systems with Digital Twin Prototypes](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2025-00131-2), 2025
-
    - Now with [thyssenkrupp Marine Systems](https://www.thyssenkrupp-marinesystems.com/)
 
 1. Dr.-Ing. Sören Henning: [Scalability Benchmarking of Cloud-Native Applications Applied to Event-Driven Microservices](https://doi.org/10.21941/kcss/2023/2), 2023
