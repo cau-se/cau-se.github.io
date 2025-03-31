@@ -12,4 +12,3 @@ nav_order: 6
 <img src="/assets/img/GitHub.png" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; **[Research software at GitHub](https://github.com/cau-se/)**
 
 <img src="/assets/img/zenodo.png" width="70"> &nbsp;&nbsp;&nbsp;&nbsp; **[Research data at Zenodo](https://zenodo.org/communities/cau-se/)**
-
