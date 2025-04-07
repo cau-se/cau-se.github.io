@@ -38,3 +38,10 @@ Useful Hints (in German):
 - [Vorgehen und Hinweise für Abschlussarbeiten](/assets/pdf/Hinweise-und-Vorgehen-für-Abschlussarbeiten.pdf)
 
 - [Latex-Vorlage (deutsch und englisch) für Proposals, Abschlussarbeiten und Präsentationen](https://git.se.informatik.uni-kiel.de/se/templates/tree/master/Abschlussarbeit)
+
+- [LaTeX Template for KCSS, the Kiel Computer Science Series](https://git.informatik.uni-kiel.de/kcss/kcss-style)
+
+Die obige Liste an Themen ist nicht erschöpfend. Für weitere Themen oder eigene Vorschläge wendet euch bitte direkt an die jeweiligen [Mitarbeiter](/team/).
+
+Ferner bieten wir in regelmäßigen Abständen ein Bachelorabschlussprojekt an, bei denen dann gemeinsam mit anderen Studierenden ein größeres Thema bearbeitet wird.
+
