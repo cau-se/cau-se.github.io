@@ -29,3 +29,12 @@ topics:
   - title: Dynamic Software Quality Metrics
     contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
 ---
+<hr>
+
+Useful Hints (in German):
+
+- [Hinweise für das wissenschaftliche Schreiben](/assets/pdf/Wissenschaftliches-Schreiben.pdf)
+
+- [Vorgehen und Hinweise für Abschlussarbeiten](/assets/pdf/Hinweise-und-Vorgehen-für-Abschlussarbeiten.pdf)
+
+- [Latex-Vorlage (deutsch und englisch) für Proposals, Abschlussarbeiten und Präsentationen](https://git.se.informatik.uni-kiel.de/se/templates/tree/master/Abschlussarbeit)
