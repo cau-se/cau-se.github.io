@@ -14,5 +14,7 @@ and the Kieker Version 2 is once again accepted after more than a decade! Many
 thanks to all Kieker developers and contributors from communities!
 
 [^0]: [SPEC RG Tools Overview: Kieker](https://research.spec.org/tools/overview/kieker/)
+
 [^1]: [SPEC RG News: Repository of Peer-Reviewed Tools Launched](https://research.spec.org/news/2012-02-02-05-00-repository-of-peer-reviewed-tools-launched/)
+
 [^2]: [Kieker News: Kieker accepted by SPEC RG](https://kieker-monitoring.net/news/kieker-accepted-for-publication-in-spec-rgs-repository-of-peer-reviewed-tools/)
