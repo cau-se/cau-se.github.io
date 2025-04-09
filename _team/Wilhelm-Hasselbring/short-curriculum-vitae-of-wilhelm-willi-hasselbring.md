@@ -14,7 +14,7 @@ title: Short Curriculum Vitae of Wilhelm (Willi) Hasselbring
   </li>
   <li>Since October 2008:
     <ul>
-      <li>Full Professor (W3) at the <a href="http://www.inf.uni-kiel.de/">Department of Computer Science</a>, <a href="http://www.tf.uni-kiel.de/">Faculty of Engineering</a>, <a href="http://www.uni-kiel.de/">Kiel University</a></li>
+      <li>Full Professor (W3) at the <a href="http://www.inf.uni-kiel.de/">Department of Computer Science</a>, <a href="https://www.uni-kiel.de/de/tf/">Faculty of Engineering</a>, <a href="http://www.uni-kiel.de/">Kiel University</a></li>
     </ul>
   </li>
   <li>2003 - 2008:
@@ -77,7 +77,7 @@ title: Short Curriculum Vitae of Wilhelm (Willi) Hasselbring
 <ul>
   <li>2012 - 2014:
     <ul>
-      <li>Dean of the <a href="http://www.tf.uni-kiel.de/">Faculty of Engineering</a>, <a href="http://www.uni-kiel.de/">Kiel University</a>.</li>
+      <li>Dean of the <a href="https://www.uni-kiel.de/de/tf/">Faculty of Engineering</a>, <a href="http://www.uni-kiel.de/">Kiel University</a>.</li>
     </ul>
   </li>
   <li>2011 - 2013:

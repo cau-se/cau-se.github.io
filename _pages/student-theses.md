@@ -29,6 +29,7 @@ topics:
   - title: Dynamic Software Quality Metrics
     contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
 ---
+
 <hr>
 
 Useful Hints (in German):
@@ -44,4 +45,3 @@ Useful Hints (in German):
 Die obige Liste an Themen ist nicht erschöpfend. Für weitere Themen oder eigene Vorschläge wendet euch bitte direkt an die jeweiligen [Mitarbeiter](/team/).
 
 Ferner bieten wir in regelmäßigen Abständen ein Bachelorabschlussprojekt an, bei denen dann gemeinsam mit anderen Studierenden ein größeres Thema bearbeitet wird.
-
