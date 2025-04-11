@@ -28,6 +28,11 @@ projects:
     of monitoring frameworks"
     logo: MooBench-logo.svg
     logo2: cau-norm-de-lilagrey-rgb.svg
+  - name: TeeTime
+    url: https://teetime-framework.github.io/
+    desc: "The Next-Generation Pipe-and-Filter Framework"
+    logo: teetime.png
+    logo2: cau-norm-de-lilagrey-rgb.svg
   - name: Theodolite
     url: https://www.theodolite.rocks/
     desc: "A framework for benchmarking the horizontal and vertical scalability
