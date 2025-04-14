@@ -2,13 +2,13 @@
 layout: projects
 permalink: /research/completed-projects/
 title: Completed Projects
-description: 
+description:
 nav: false
 nav_order: 99
 
 projects:
   - name: BIS-Grid
-    url: https://web.archive.org/web/20160926025449/http://bisgrid.d-grid.de/bi.offis.de/bisgrid/tiki-index.html 
+    url: https://web.archive.org/web/20160926025449/http://bisgrid.d-grid.de/bi.offis.de/bisgrid/tiki-index.html
     desc: "Betriebliche Informationssysteme: Grid-basierte Integration und Orchestrierung"
     logo: BIS-Grid.png
     logo2: BMBF.png
