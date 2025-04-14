@@ -1,0 +1,49 @@
+<div class="news">
+  {% if site.events != blank %}
+    {% assign events_size = site.events | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and site.events.scrollable and events_size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table
+        {% if page.name == 'about.md' %}
+          class="table table-sm table-borderless"
+        {% else %}
+          class="table"
+        {% endif %}
+      >
+        {% assign today = 'now' | date: '%s' %}
+        {% assign events = site.events %}
+        {% if include.limit and site.events.limit %}
+          {% assign events_limit = site.events.limit %}
+        {% else %}
+          {% assign events_limit = events_size %}
+        {% endif %}
+        {% for item in events limit: events_limit %}
+          {% assign item_date = item.date | date: '%s' %}
+          {% if item_date >= today %}
+            <tr>
+              <th scope="row" style="width: 20%; vertical-align: top;">
+                <a href="{{ item.url | relative_url }}">{{ item.date | date: '%b %d, %Y' }}</a>
+              </th>
+              <td>
+                {% if page.name == 'about.md' %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% else %}
+                  <div style="text-align: left;">
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {{ item.content | emojify }}
+                  </div>
+                {% endif %}
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No events so far...</p>
+  {% endif %}
+</div>

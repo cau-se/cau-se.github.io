@@ -50,11 +50,19 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
+    {% if site.latest_posts.enabled or page.latest_posts %}
       <h4>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h4>
       {% include latest_posts.liquid %}
+    {% endif %}
+
+    <!-- Latest event -->
+    {% if page.events and site.announcements.enabled %}
+      <h4>
+        <a href="{{ '/events/' | relative_url }}" style="color: inherit">events</a>
+      </h4>
+      {% include events.liquid limit=true %}
     {% endif %}
 
     <!-- Selected papers -->

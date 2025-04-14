@@ -24,6 +24,7 @@ last_updated: true # set to true if you want to display last updated in the foot
 imprint_path: /imprint/ # set to path to include imprint link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 imprint_url:
 back_to_top: true # set to false to disable the back to top button
+future: true
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -198,6 +199,11 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  events:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -209,6 +215,10 @@ announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
+
+events:
+  scrollable: true # adds a vertical scroll bar if there are more than 3 events items
+  limit: 10 # leave blank to include all the news in the `_events` folder
 
 latest_posts:
   enabled: false
