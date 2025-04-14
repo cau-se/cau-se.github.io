@@ -7,6 +7,11 @@ nav: false
 nav_order: 99
 
 projects:
+  - name: MarData
+    url: https://www.mardata.de/
+    desc: "Helmholtz School for Marine Data Science"
+    logo: MarData.png
+    logo2: Helmholtz.png
   - name: ScalableMine
     url: https://www.sourced.uni-bayreuth.de/de/projects/ScalableMine/index.html
     desc: "Scalable Hierarchical Process Mining in Event-Stream Systems"
