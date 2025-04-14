@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-[16th Symposium on Software Performance, 4-5 November 2025, Kiel, Germany](https://www.performance-symposium.org/)
+Kiel University will host the [16th Symposium on Software Performance](https://www.performance-symposium.org/) from Nov 4 to 5 including developers meetings at the new Kiel Marine Science Center.
