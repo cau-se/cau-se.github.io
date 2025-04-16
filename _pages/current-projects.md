@@ -22,6 +22,11 @@ projects:
     desc: "Entwicklung einer intelligenten Sensorplattform zur Erntemengenerfassung- und Management von Silagen"
     logo: SilageControl.png
     logo2: BMEL.png
+  - name: SPEC Research Group
+    url: https://research.spec.org/
+    desc: "Collaborative research efforts in the area of quantitative system evaluation and analysis"
+    logo: SPEC-RG.png
+    logo2: SPEC.png
   - name: SustainKieker
     url: https://sustainkieker.kieker-monitoring.net/
     desc: "Kieker monitoring framework as a sustainable and reusable research

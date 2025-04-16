@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Days
+title: Community Days „Softwarearchitektur & Softwareentwicklung“
 date: 2025-05-22
 inline: false
 related_posts: false
