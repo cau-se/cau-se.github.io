@@ -13,7 +13,7 @@ projects:
     logo: BIS-Grid.png
     logo2: BMBF.png
   - name: DynaMod
-    url: http://kosse-sh.de/dynamod/
+    url: hhttps://nbn-resolving.org/urn:nbn:de:101:1-2014021214608
     desc: "Dynamische Analyse für modellgetriebene Software-Modernisierung"
     logo: DynaMod.png
     logo2: BMBF.png
@@ -23,12 +23,12 @@ projects:
     logo: FutureOcean.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: GeRDI
-    url: https://www.cau-se.de/research/
+    url: https://dl.gi.de/handle/20.500.12116/4700
     desc: "Generic Research Data Infrastructure"
     logo: GeRDI.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: HOSST
-    url: https://www.mardata.de/
+    url: https://www.geomar.de/studieren/doktorandin/hosst/our-programm
     desc: "Helmholtz Research School Ocean System Science and Technology"
     logo: HOSST.png
     logo2: Helmholtz.png
@@ -63,7 +63,7 @@ projects:
     logo: OceanTEA.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: PubFlow
-    url: https://www.cau-se.de/research/
+    url: https://nbn-resolving.org/urn:nbn:de:gbv:8:1-zs-00000336-a9
     desc: "Research on workflow-based support for assisting scientists to manage and publish their research data"
     logo: PubFlow.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
@@ -73,7 +73,7 @@ projects:
     logo: Titan.png
     logo2: BMBF.png
   - name: Trustsoft
-    url: https://www.cau-se.de/research/
+    url: https://doi.org/10.1145/1218776.1218781
     desc: "Graduiertenkolleg Vertrauenswürdige Softwaresysteme"
     logo: TrustSoft.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
@@ -83,7 +83,7 @@ projects:
     logo: WISENT.png
     logo2: BMBF.png
   - name: Xbase
-    url: https://kosse-sh.de/projekte/xbase/
+    url: https://doi.org/10.1145/2371401.2371419
     desc: "Produktivitätssteigerung bei der Implementierung domänenspezifischer Sprachen durch effektive Wiederverwendung"
     logo: XBase.png
     logo2: BMBF.png
