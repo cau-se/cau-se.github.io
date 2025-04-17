@@ -23,7 +23,7 @@ projects:
     logo: FutureOcean.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: GeRDI
-    url: 
+    url: https://www.cau-se.de/research/
     desc: "Generic Research Data Infrastructure"
     logo: GeRDI.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
@@ -63,7 +63,7 @@ projects:
     logo: OceanTEA.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: PubFlow
-    url: 
+    url: https://www.cau-se.de/research/
     desc: "Research on workflow-based support for assisting scientists to manage and publish their research data"
     logo: PubFlow.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
@@ -73,7 +73,7 @@ projects:
     logo: Titan.png
     logo2: BMBF.png
   - name: Trustsoft
-    url: 
+    url: https://www.cau-se.de/research/
     desc: "Graduiertenkolleg Vertrauenswürdige Softwaresysteme"
     logo: TrustSoft.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
@@ -87,4 +87,4 @@ projects:
     desc: "Produktivitätssteigerung bei der Implementierung domänenspezifischer Sprachen durch effektive Wiederverwendung"
     logo: XBase.png
     logo2: BMBF.png
- ---
+---
