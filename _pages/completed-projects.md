@@ -13,7 +13,7 @@ projects:
     logo: BIS-Grid.png
     logo2: BMBF.png
   - name: DynaMod
-    url: hhttps://nbn-resolving.org/urn:nbn:de:101:1-2014021214608
+    url: https://nbn-resolving.org/urn:nbn:de:101:1-2014021214608
     desc: "Dynamische Analyse für modellgetriebene Software-Modernisierung"
     logo: DynaMod.png
     logo2: BMBF.png
@@ -68,7 +68,7 @@ projects:
     logo: PubFlow.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
   - name: Titan
-    url: https://www.industrial-devops.org/
+    url: https://nbn-resolving.org/urn:nbn:de:gbv:8:1-zs-00000384-a7
     desc: "The industrial DevOps platform for agile process integration and automation"
     logo: Titan.png
     logo2: BMBF.png
