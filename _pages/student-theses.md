@@ -14,6 +14,9 @@ topics:
   - title: Reverse engineering of a Python software using domain-specific language
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
+  - title: Evaluating scalability of different microservice platforms
+    image: SustainKieker-logo.svg
+    contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
   - title: Automatic Analysis and Visualization of Versioned Software Systems
     image: explorviz-logo-white.png
     contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
