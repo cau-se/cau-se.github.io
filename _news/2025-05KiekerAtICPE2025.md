@@ -20,6 +20,8 @@ three different sessions at the upcoming ICPE 2025.[^1]
   during the lunch break. ICPE participants will be able to see the live
   demonstration of our tool artifact on a laptop along with the poster.
 
+  * [ICPE2025 Poster-Kieker Observability Framework](/assets/pdf/ICPE2025-Poster-KiekerObservabilityFramework.pdf)
+
 * **Pitch Presentation** will be held on Friday, May 9, 2025 at 14:00 h, as a
   5-minute talk. [^2]
 
