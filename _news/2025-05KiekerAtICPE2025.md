@@ -41,6 +41,6 @@ and (3) are uploaded to Zenodo.[^4] You may obtain the proceedings paper from AC
 
 [^4]: [Tool Artifact Zenodo repository](https://doi.org/10.5281/zenodo.14989908)
 
-[^5]: [Proceedings paper](https://doi.org/10.1145/3680256.3721972/)
+[^5]: [Proceedings paper](https://doi.org/10.1145/3680256.3721972)
 
 [^6]: [Preprint](https://doi.org/10.48550/arXiv.2503.09189)
