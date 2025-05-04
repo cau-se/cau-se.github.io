@@ -28,7 +28,7 @@ The hands-on tool artifact is available in three formats: (1) Docker images on
 the Docker Hub registry with the Docker compose scripts on GitHub[^3], (2) a
 single archive file of all Docker image exports,  and (3) a single virtual
 machine image that runs the tool artifact automatically at the start-up. (2)
-and (3) are uploaded to Zenodo.[^4]
+and (3) are uploaded to Zenodo.[^4] You may obtain the proceedings paper from ACM[^5] or a preprint from arXiv.[^6]
 
 
 [^0]: [SPEC RG Tools Overview: Kieker](https://research.spec.org/tools/overview/kieker/)
@@ -40,3 +40,7 @@ and (3) are uploaded to Zenodo.[^4]
 [^3]: [Tool Artifact GitHub repository](https://github.com/kieker-monitoring/tool-artifact)
 
 [^4]: [Tool Artifact Zenodo repository](https://doi.org/10.5281/zenodo.14989908)
+
+[^5]: [Proceedings paper](https://doi.org/10.1145/3680256.3721972/)
+
+[^6]: [Preprint](https://doi.org/10.48550/arXiv.2503.09189)
