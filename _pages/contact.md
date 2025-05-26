@@ -27,5 +27,5 @@ Christian-Albrechts-Platz 4 (12th floor, high rise building)<br>
 24118 Kiel<br>
 Germany
 
-[View visitor address on OpenStreetMap](https://www.openstreetmap.org/way/25622106#map=19/54.338828/10.122504).
-[View visitor address on Bing Maps](http://binged.it/RFQv4e).
+View visitor address on [Bing Maps](https://binged.it/RFQv4e) or [Google Maps](https://goo.gl/maps/bdifuYDkTRtZuAQ28) or [OpenStreetMap](https://www.openstreetmap.org/way/25622106#map=19/54.338828/10.122504), as you prefer.
+.
