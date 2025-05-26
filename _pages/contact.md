@@ -28,4 +28,3 @@ Christian-Albrechts-Platz 4 (12th floor, high rise building)<br>
 Germany
 
 View visitor address on [Bing Maps](https://binged.it/RFQv4e) or [Google Maps](https://goo.gl/maps/bdifuYDkTRtZuAQ28) or [OpenStreetMap](https://www.openstreetmap.org/way/25622106#map=19/54.338828/10.122504), as you prefer.
-.
