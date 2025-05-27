@@ -8,3 +8,7 @@ nav_order: 7
 ---
 
 {% include events.liquid %}
+
+---
+
+**[Previous Events](/events/previous/)**
