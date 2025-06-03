@@ -29,8 +29,13 @@ topics:
   - title: Improve Data Mining Algorithms for High-Volume Sensor Data
     contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107)"
     image: SOURCED.png
-  - title: Dynamic Software Quality Metrics
+  - title: Analyze and Optimize Java Byte Code Metric in Software Modularizations
     contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
+  - title: Evaluate Semantic Coupling for Optimization of Java Projects
+    contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
+  - title: Improve Paralellization in a Genetic Algorithm Framework
+    contact: "[Henning Schnoor](https://www.uni-kiel.de/en/person/schnoor-henning-48637)"
+    
 ---
 
 <hr>
