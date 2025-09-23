@@ -17,9 +17,9 @@ topics:
   - title: Evaluating scalability of different microservice platforms
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
-  - title: Automatic Analysis and Visualization of Versioned Software Systems
+  - title: Visualizing Debugging States in a 3D City Metaphor
     image: explorviz-logo-white.png
-    contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
+    contact: "[Lukas Damerau](https://www.uni-kiel.de/de/person/damerau-lukas-70113)"
   - title: Benchmark Energy-Consumption for Stream Processing Engines
     image: SOURCED.png
     contact: "[Hendrik Reiter](https://www.uni-kiel.de/en/person/reiter-hendrik-ken-70107)"
