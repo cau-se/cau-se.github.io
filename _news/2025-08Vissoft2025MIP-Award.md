@@ -18,3 +18,5 @@ The MIP talk slides (presented by Malte Hansen at the [Thirteenth IEEE Working C
 <img src="/assets/img/News/Vissoft2025City.jpg" width="660">
 
 <img src="/assets/img/News/Vissoft2025MIP-talk-award.jpg" width="660">
+
+<img src="/assets/img/News/Vissoft2025mip-paper-citations.jpg" width="660">
