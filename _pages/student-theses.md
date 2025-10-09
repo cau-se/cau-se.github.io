@@ -35,7 +35,9 @@ topics:
 
 <hr>
 
-Useful Hints (in German):
+Useful Hints (mostly in German):
+
+- [Notes On Writing Effective Empirical Software Engineering Papers](https://dl.acm.org/doi/10.1145/3743095.3743100)
 
 - [Hinweise für das wissenschaftliche Schreiben](/assets/pdf/Wissenschaftliches-Schreiben.pdf)
 
