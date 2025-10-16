@@ -8,7 +8,7 @@ related_posts: false
 
 ### New paper in IEEE Access
 
-**A. Seipolt, R. Buschermöhle and W. Hasselbring, "<span>Digital Twins in Manufacturing: A Systematic Literature Review With Retrieval-Augmented Generation</span>" _IEEE Access_, vol. 13, pp. 172562-172583, 2025, doi:&nbsp;[https://doi.org/10.1109/ACCESS.2025.3611269](https://doi.org/10.1109/ACCESS.2025.3611269) **
+**A. Seipolt, R. Buschermöhle and W. Hasselbring, "<span>Digital Twins in Manufacturing: A Systematic Literature Review With Retrieval-Augmented Generation</span>" _IEEE Access_, vol. 13, pp. 172562-172583, 2025, doi:&nbsp;[https://doi.org/10.1109/ACCESS.2025.3611269](https://doi.org/10.1109/ACCESS.2025.3611269)**
 
 #### Abstract
 
