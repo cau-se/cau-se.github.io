@@ -1,14 +1,14 @@
 ---
 layout: profile
 
-title: Arne Seipolt
+title: Arne Kröger
 description: External PhD Student
 
 profile:
-  Name: Arne Seipolt
+  Name: Arne Kröger
   Position: External PhD Student
   Room:
   Phone:
   Photo: Arne-Seipolt.jpg
-  OfficialURL: https://www.researchgate.net/profile/Arne-Seipolt-Seipolt
+  OfficialURL: https://orcid.org/0009-0001-4707-7238
 ---
