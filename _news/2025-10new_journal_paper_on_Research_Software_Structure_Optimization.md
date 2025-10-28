@@ -8,7 +8,7 @@ related_posts: false
 
 ### New paper in Software
 
-**H. Schnoor, W. Hasselbring, R. Jung:"<span>Using Genetic Algorithms for Research Software Structure Optimization</span>" _Software_, vol. 4, no. 4, 2025, doi:&nbsp;[https://doi.org/10.3390/software4040026](https://doi.org/10.3390/software4040026)**
+**H. Schnoor, W. Hasselbring, R. Jung: "<span>Using Genetic Algorithms for Research Software Structure Optimization</span>" _Software_, vol. 4, no. 4, 2025, doi:&nbsp;[https://doi.org/10.3390/software4040026](https://doi.org/10.3390/software4040026)**
 
 #### Abstract
 
