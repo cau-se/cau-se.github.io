@@ -11,8 +11,6 @@ nav_order: 4
 
 <img src="/assets/img/wiki.png" width="60"> &nbsp;&nbsp; **[Our Software Engineering Teaching Wiki](https://cau-git.rz.uni-kiel.de/ifi-ag-se/public/teaching/-/wikis/home)**
 
-<img src="/assets/img/summit.png" width="60"> &nbsp;&nbsp; **[Upskilling: Summit Community „Softwarearchitektur & Softwareentwicklung“ ](https://summit-community.de/veranstaltung/softwarearchitektur-softwareentwicklung/)**
-
 <img src="/assets/img/visualparadigm.png" width="60"> &nbsp;&nbsp; Through the [Visual Paradigm Academic Partner Program](https://www.visual-paradigm.com/partner/academic/), the University of Kiel is granted a license for modeling software - VP for educational use.
 
 - **[Get the installer and an academic license](https://ap.visual-paradigm.com/university-of-kiel)** (You will need your Kiel University email address to activate the license).
