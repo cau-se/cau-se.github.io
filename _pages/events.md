@@ -11,4 +11,4 @@ nav_order: 7
 
 ---
 
-**[Previous Events](/events/previous/)**
+**[Past Events](/events/previous/)**
