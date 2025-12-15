@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper on Research Software Structure Optimization
+title: Paper on Research Software Structure Optimization
 date: 2025-10-28 10:11:00+0100
 inline: false
 related_posts: false

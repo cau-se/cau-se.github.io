@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New CiSE paper on Research Software Architecture
+title: Paper on Research Software Architecture
 date: 2025-06-28 10:11:00+0100
 inline: false
 related_posts: false

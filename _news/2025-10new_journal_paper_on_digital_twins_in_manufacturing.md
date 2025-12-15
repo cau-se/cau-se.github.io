@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper on Digital Twins in Manufacturing
+title: Paper on Digital Twins in Manufacturing
 date: 2025-10-16 10:11:00+0100
 inline: false
 related_posts: false
