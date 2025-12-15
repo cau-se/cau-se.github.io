@@ -8,7 +8,7 @@ related_posts: false
 
 ### New paper in the Electronic Communications of the EASST
 
-**Yo Yehudi, Mikaela Cashman, Michael Goedicke, Wilhelm Hasselbring, Daniel S. Katz, Sebastian Müller, Carole Goble, Caroline Jay (2025) "<span>Research Software Lifecycles and Stages.</span>" _Electronic Communications of the EASST_, 85(2). pp. 1-22. doi:&nbsp;[https://doi.org/10.14279/eceasst.v85.2693](https://doi.org/10.14279/eceasst.v85.2693)**
+**Yo Yehudi, Mikaela Cashman, Michael Goedicke, Wilhelm Hasselbring, Daniel S. Katz, Sebastian Müller, Carole Goble, Caroline Jay (2025) "<span>Research Software Lifecycles and Stages.</span>" _Electronic Communications of the EASST_, 85. pp. 1-22. doi:&nbsp;[https://doi.org/10.14279/eceasst.v85.2693](https://doi.org/10.14279/eceasst.v85.2693)**
 
 #### Abstract
 
