@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IEEE Working Conference on Software Visualization (VISSOFT 2026) 
+title: IEEE Working Conference on Software Visualization VISSOFT 2026
 date: 2026-09-14
 inline: false
 related_posts: false

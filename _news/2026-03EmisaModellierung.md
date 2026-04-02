@@ -12,4 +12,3 @@ The 16<sup>th</sup> International Workshop on Enterprise Modeling and Informatio
 
 - [Reiter, Hendrik; Hasselbring, Wilhelm: **On Scalable Edge-Native Process Insights: Future Research Directions**](https://doi.org/10.18420/EMISA2026_05)
 - [Imenkamp, Christian; Maldonado, Andrea; Reiter, Hendrik; Werner, Martin; Hasselbring, Wilhelm; Koschmider, Agnes; Burattin, Andrea: **AVOCADO: The Streaming Process Mining Challenge**](https://doi.org/10.18420/modellierung2026-07)
-
