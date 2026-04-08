@@ -8,7 +8,7 @@ nav_order: 99
 ---
 
 1. Dr.-Ing. Alexander Barbie: [Agile Continuous Integration Testing of Embedded Software Systems with Digital Twin Prototypes](https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2025-00131-2), 2025
-   - Now with [thyssenkrupp Marine Systems](https://www.thyssenkrupp-marinesystems.com/)
+   - Now with [TKMS](https://www.tkmsgroup.com/)
 
 1. Dr.-Ing. Sören Henning: [Scalability Benchmarking of Cloud-Native Applications Applied to Event-Driven Microservices](https://doi.org/10.21941/kcss/2023/2), 2023
    - Now with [Dynatrace](http://www.dynatrace.com)
@@ -32,7 +32,7 @@ nav_order: 99
    - Now with [SymFinIT Solutions](https://www.symfinit.solutions/)
 
 1. Prof. Dr.-Ing. Jan Waller: [Performance Benchmarking of Application Monitoring Frameworks](https://nbn-resolving.org/urn:nbn:de:gbv:8-diss-162454), 2014
-   - Now with [Fachhochschule Kiel](https://www.fh-kiel.de/)
+   - Now with [HAW Kiel](https://www.haw-kiel.de/)
 
 1. Dr.-Ing. Matthias Rohr: [Workload-sensitive Timing Behavior Analysis for Fault Localization in Software Systems](https://nbn-resolving.org/urn:nbn:de:gbv:8-diss-163594), 2014
    - Now with [PSI Software](https://www.psi.de/)
@@ -50,7 +50,7 @@ nav_order: 99
    - Now with [Jade University of Applied Sciences](https://www.jade-hs.de/team/stefan-gudenkauf/)
 
 1. Prof. Dr.-Ing. Jens Ehlers: [Self-Adaptive Performance Monitoring for Component-Based Software Systems](https://nbn-resolving.org/urn:nbn:de:gbv:8-diss-84142), 2012
-   - Now with [Fachhochschule Kiel](https://www.fh-kiel.de/fachbereiche/informatik-und-elektrotechnik/wir-ueber-uns/lehre/professuren-und-lehrkraefte-fuer-besondere-aufgaben-lfba/ehlers-prof-dr-ing-jens/)
+   - Now with [HAW Kiel](https://www.haw-kiel.de/fachbereiche/informatik-und-elektrotechnik/wir-ueber-uns/lehre/hauptamtlich-lehrende/ehlers-prof-dr-ing-jens/)
 
 1. Prof. Dr.-Ing. Niels Streekmann: [Clustering-Based Support for Software Architecture Restructuring](https://oceanrep.geomar.de/id/eprint/14435/), 2011
    - Now with [Hochschule Emden/Leer](https://www.hs-emden-leer.de/)

@@ -37,11 +37,6 @@ projects:
     desc: "Integrated Observation and Modeling Techniques to Support Adaptation and Evolution of Software Systems"
     logo: iObserve.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
-  - name: KoSSE
-    url: https://www.kosse-sh.de/
-    desc: "Kompetenzverbund Software Systems Engineering"
-    logo: KoSSE.png
-    logo2: EFRE-ZPW.png
   - name: MENGES
     url: https://menges.informatik.uni-kiel.de/
     desc: "Modellbasierte Entwurfsmethoden für eine neue Generation elektronischer Stellwerke"
