@@ -15,6 +15,11 @@
 ```bash
 docker compose up
 ```
+If it doesn't work try the following method instead:
+
+```bash
+docker compose up --build
+```
 
 Then open [http://localhost:8080](http://localhost:8080) on the browser.
 Modifying certain files (e.g., \_config.yml) will force-quit the current
