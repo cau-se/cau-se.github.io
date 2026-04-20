@@ -8,7 +8,7 @@ related_posts: false
 
 ### New paper in Computing in Science & Engineering
 
-**W. Hasselbring, D. S. Katz and R. van Nieuwpoort. (2026) "<span>echnology Research Software: An Often Overlooked Category of Research Software.</span>" _Computing in Science & Engineering_, 28(1). pp. 94-99. doi:&nbsp;[
+**W. Hasselbring, D. S. Katz and R. van Nieuwpoort. (2026) "<span>Technology Research Software: An Often Overlooked Category of Research Software.</span>" _Computing in Science & Engineering_, 28(1). pp. 94-99. doi:&nbsp;[
 https://doi.org/10.1109/MCSE.2026.3662117](
 https://doi.org/10.1109/MCSE.2026.3662117)**
 
