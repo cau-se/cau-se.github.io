@@ -9,6 +9,6 @@ profile:
   Position: System Administrator
   Room: 1206
   Phone: -7273
-  Photo: mw.png
+  Photo: mw.jpg
   OfficialURL: https://www.uni-kiel.de/de/person/westphal-matthias-46811
 ---
