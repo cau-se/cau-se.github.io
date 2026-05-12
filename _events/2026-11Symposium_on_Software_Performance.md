@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 17th Symposium on Software Performance
-date: 2026-11-04
+date: 2026-11-09
 inline: false
 related_posts: false
 ---
