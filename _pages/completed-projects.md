@@ -62,6 +62,11 @@ projects:
     desc: "Research on workflow-based support for assisting scientists to manage and publish their research data"
     logo: PubFlow.png
     logo2: dfg_logo_schriftzug_blau_foerderung_en.svg
+  - name: SilageControl
+    url: https://projekt.silagecontrol.de/
+    desc: "Entwicklung einer intelligenten Sensorplattform zur Erntemengenerfassung- und Management von Silagen"
+    logo: SilageControl.png
+    logo2: BMEL.png
   - name: Titan
     url: https://nbn-resolving.org/urn:nbn:de:gbv:8:1-zs-00000384-a7
     desc: "The industrial DevOps platform for agile process integration and automation"
