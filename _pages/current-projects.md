@@ -20,7 +20,7 @@ projects:
   - name: RSE Metascience
     url: https://www.southampton.ac.uk/research/projects/rse-metascience
     desc: "Metascience for Research Software Engineering"
-    logo: 
+    logo: UKMetascienceUnit.png
     logo2: UKRI.png
   - name: SPEC Research Group
     url: https://research.spec.org/
