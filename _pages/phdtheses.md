@@ -65,7 +65,7 @@ nav_order: 99
    - Now with [Airbus](https://www.airbus.com/)
 
 1. Dr.-Ing. Marko Boskovic: [Model-driven Performance Measurement and Assessment with Relational Traces](http://nbn-resolving.org/urn:nbn:de:gbv:715-oops-10090), 2010
-   - Now with [Erste Digital](https://www.erstedigital.com/)
+   - Now with [IBM](https://www.ibm.com/)
 
 1. Dr.-Ing. Heinrich (Heiko) Niemann: [Regelbasierte Replikationsstrategie für heterogene, autonome Informationssysteme](https://nbn-resolving.org/urn:nbn:de:gbv:8-diss-37130), 2009
    - Now with [Lieken](https://www.lieken.de/)
