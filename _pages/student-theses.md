@@ -7,11 +7,10 @@ nav: true
 nav_order: 3
 
 topics:
-  - title: Adapting anomaly detection in a performance benchmark of monitoring agents
-    # desc: An optional description
+  - title: Performance benchmarking techniques of observability agents
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
-  - title: Reverse engineering of a Python software using domain-specific language
+  - title: Combined analysis of a Python software with visualization techniques
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
   - title: Evaluating scalability of different microservice platforms
