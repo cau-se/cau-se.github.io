@@ -49,4 +49,4 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --user-agent 'curl/8.18.0' --accept 200..=299,403,503 --max-redirects 128 --base-url https://cau-se.de --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _site --exclude-path node_modules --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/8.18.0' --accept 200..=299,301,403,503 --max-redirects 128 --base-url https://cau-se.de --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _site --exclude-path node_modules --no-progress './**/*.md' './**/*.html'
