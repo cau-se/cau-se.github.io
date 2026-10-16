@@ -113,7 +113,7 @@ title: Short Curriculum Vitae of Wilhelm (Willi) Hasselbring
   </li>
   <li>1994:
     <ul>
-      <li>Ph.D. in Computer Science at the <a href="http://www.informatik.uni-dortmund.de/">Department of Computer Science</a> of the <a href="http://www.uni-dortmund.de/">University of Dortmund</a> with the subject: `Prototyping Parallel Algorithms in a Set-Oriented Language’</li>
+      <li>Ph.D. in Computer Science at the <a href="https://cs.tu-dortmund.de/">Department of Computer Science</a> of the <a href="http://www.uni-dortmund.de/">University of Dortmund</a> with the subject: `Prototyping Parallel Algorithms in a Set-Oriented Language’</li>
     </ul>
   </li>
   <li>1983 - 1989:

@@ -75,7 +75,7 @@ cargo install lychee
 The most up-to-date lychee command is as followed by:
 
 ```bash
-lychee --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html' --exclude researchgate.net --exclude doi.org --exclude acm.org --exclude star-history.com --exclude tilburguniversity.edu --exclude app
+lychee --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html' --exclude researchgate.net --exclude doi.org --exclude acm.org --exclude star-history.com --exclude tilburguniversity.edu --exclude app
 ```
 
 If the command is modified, then update the last line in this GitHub action script:
