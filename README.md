@@ -15,6 +15,7 @@
 ```bash
 docker compose up
 ```
+
 If it doesn't work try the following method instead:
 
 ```bash
