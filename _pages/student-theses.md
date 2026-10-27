@@ -35,13 +35,7 @@ topics:
   - title: Visualization of Software Test Results in ExplorViz
     image: explorviz-logo-white.png
     contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
-  - title: Live Kubernetes Cluster Visualization in ExplorViz
-    image: explorviz-logo-white.png
-    contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
   - title: Linux Kernel Dependency Visualization in ExplorViz
-    image: explorviz-logo-white.png
-    contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
-  - title: Visualization of AI Applications in ExplorViz
     image: explorviz-logo-white.png
     contact: "[Malte Hansen](https://www.uni-kiel.de/de/person/hansen-malte-55509)"
   - title: Benchmark Energy-Consumption for Stream Processing Engines
