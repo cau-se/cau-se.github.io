@@ -26,6 +26,9 @@ topics:
   - title: Evaluating scalability of different microservice platforms
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
+  - title: GPU Observability with Kieker
+    image: SustainKieker-logo.svg
+    contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
   - title: Objektzentrierte Visualisierung von Zustandsänderungen in ExplorViz
     image: explorviz-logo-white.png
     contact: "[Lukas Damerau](https://www.uni-kiel.de/de/person/damerau-lukas-70113)"
