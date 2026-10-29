@@ -20,6 +20,9 @@ topics:
   - title: Performance benchmarking techniques of observability agents
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
+  - title: OpenTelemetry-Native Tracing Agent for Kieker
+    image: SustainKieker-logo.svg
+    contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
   - title: Combined analysis of a Python software with visualization techniques
     image: SustainKieker-logo.svg
     contact: "[Shinhyung Yang](https://www.uni-kiel.de/en/person/yang-shinhyung-70105)"
