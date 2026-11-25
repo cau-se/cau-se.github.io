@@ -55,8 +55,8 @@ nav_order: 99
 1. Prof. Dr.-Ing. Niels Streekmann: [Clustering-Based Support for Software Architecture Restructuring](https://oceanrep.geomar.de/id/eprint/14435/), 2011
    - Now with [Hochschule Emden/Leer](https://www.hs-emden-leer.de/)
 
-1. Dr.-Ing. Stefan Bärisch: [Model-Driven Test Case Construction by Domain Experts in the Context of Software System Families](https://oceanrep.geomar.de/id/eprint/14444/), 2010
-   - Now with [https://www.stbaer.de/](https://www.stbaer.de/)
+1. [Dr.-Ing. Stefan Bärisch](https://www.stbaer.de/): [Model-Driven Test Case Construction by Domain Experts in the Context of Software System Families](https://oceanrep.geomar.de/id/eprint/14444/), 2010
+   - Now with [KVB](https://www.kvb.de/)
 
 1. Prof. Dr.-Ing. Jasminka Matevska: [Modellbasierte erreichbarkeitsoptimierte Rekonfiguration komponentenbasierter Softwaresysteme zur Laufzeit](https://oceanrep.geomar.de/id/eprint/14449/), 2010
    - Now with [Hochschule Bremen](https://www.hs-bremen.de/person/matevska/)
